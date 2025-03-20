@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**SorrowGerdev/SorrowGerdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Über mich 
+Mein Name ist Sebastian und ich habe eine schulische Ausbildung zum Fachinformatiker in Anwendungsentwicklung abgeschlossen.
+
+## Skills
+
+- C#
+- Python
+- Html 
+- CSS
+
+
+
+
+## Projekte
+#### Html und CSS
+- Portfolio Website
+- Inventarsystem mit Datenbank (MYSQL) und PDF ausgabe.
+#### C#
+- Twitch Chatbot (WPF - Application)
+#### Unity
+- Heart's desire (2D Spiel)
+
+ 
+
+
+## Badges
+
+ - Python incoming
+ - Cybersecurity incoming
+## Kontakt
+
+Wenn Sie mit mir Kontakt aufnehmen möchten dann schicken Sie mir doch eine E-Mail an:
+Seb.Gollmer@gmail.com
+
